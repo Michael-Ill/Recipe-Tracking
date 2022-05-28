@@ -2,11 +2,13 @@
   "name": "recipe-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Michael-Ill.github.io",
   "dependencies": {
     "gh-pages": "^4.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "save-dev": "^0.0.1-security"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
